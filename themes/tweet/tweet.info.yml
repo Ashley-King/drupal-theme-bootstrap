@@ -1,0 +1,5 @@
+name: Tweet
+type: theme
+description: 'A Custom Bootstrap Theme'
+core_version_requirement: ^8 || ^9
+base theme: false
