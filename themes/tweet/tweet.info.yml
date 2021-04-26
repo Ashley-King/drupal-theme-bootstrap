@@ -5,3 +5,17 @@ core_version_requirement: ^8 || ^9
 base theme: false
 libraries:
   - tweet/bootstrap
+regions:
+  header: Header
+  primary_menu: 'Primary Menu'
+  secondary_menu: 'Secondary Menu'
+  page_top: 'Page Top'
+  page_bottom: 'Page Bottom'
+  highlighted: Highlighted
+  breadcrumb: Breadcrumb
+  content: Content
+  sidebar_first: 'Left Sidebar'
+  sidebar_second: 'Right Sidebar'
+  footer: Footer
+  jumbotron: Jumbotron
+  featured: Featured
